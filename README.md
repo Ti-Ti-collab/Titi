@@ -9,3 +9,15 @@ I’m currently building projects in predictive modeling, healthcare analytics, 
 🚀 I'm actively growing my portfolio, collaborating with data communities, and seeking opportunities to apply analytics in meaningful, impactful ways.
 
 📫 Let’s connect: [LinkedIn](http://www.linkedin.com/in/-titilayo-afolabi) | [Email](mailto:afolabititilayo09@gmail.com) | [Portfolio — coming soon]
+
+### 🛠 Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+![Banner](https://github.com/user-attachments/assets/bb045a98-3228-48b1-8e41-f8bc67184c88)
