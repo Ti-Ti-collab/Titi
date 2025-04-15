@@ -19,5 +19,3 @@ I’m currently building projects in predictive modeling, healthcare analytics, 
   <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-![Banner](https://github.com/user-attachments/assets/bb045a98-3228-48b1-8e41-f8bc67184c88)
