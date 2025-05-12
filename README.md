@@ -1,4 +1,4 @@
-## 👋🏽 Hi, I'm Titi
+**👋🏽 Hi, I'm Titi**
 
 I'm a Data Analyst and Health Tech Enthusiast passionate about translating complex clinical and operational data to reveal insights that improve public health and help healthcare organizations run smarter, making their finances and operations healthier and even smoother.
 
