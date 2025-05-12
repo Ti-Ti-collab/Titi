@@ -1,10 +1,10 @@
 ## 👋🏽 Hi, I'm Titi
 
-I'm a Data Analyst and Health Tech Enthusiast passionate about solving real-world problems through data-driven insights.
+I'm a Data Analyst and Health Tech Enthusiast passionate about translating complex clinical and operational data to reveal insights that improve public health and help healthcare organizations run smarter, making their finances and operations healthier and even smoother.
 
-🎓 I recently completed a Health Analytics course, where I explored ER patient flows, lung cancer risk prediction, and bioinformatics. This involved data wrangling, preprocessing, analysis, visualization, and reporting — all toward leveraging clean data to build scalable machine learning models that support public health and potentially save lives.
+🎓 I recently completed a Health Analytics program, where I explored ER patient flows, lung cancer risk prediction, and bioinformatics. This involved data wrangling, preprocessing, analysis, visualization, and reporting — all toward leveraging clean data to build scalable machine learning models that support public health and potentially save lives.
 
-I’m currently building projects in predictive modeling, healthcare analytics, and data storytelling using Python, SQL, Power BI, and DAX.
+I’m currently building projects in predictive modelling, healthcare analytics, and data storytelling using Python, SQL, Power BI, and DAX.
 
 🚀 I'm actively growing my portfolio, collaborating with data communities, and seeking opportunities to apply analytics in meaningful, impactful ways.
 
